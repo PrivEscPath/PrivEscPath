@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to PrivEscPath
 
-<!--
-**PrivEscPath/PrivEscPath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Networking | Cybersecurity | Infrastructure Engineering
 
-Here are some ideas to get you started:
+I'm an IT professional with over three years of hands-on experience across network operations, systems engineering, and cybersecurity administration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My career has progressed from NOC Tier 1 through NOC Tier 2 and Systems Engineering into cybersecurity, giving me practical experience supporting, troubleshooting, and securing enterprise infrastructure.
+
+My technical background includes Cisco networking, Fortinet security solutions, Windows and Linux administration, virtualization, disaster recovery, and security monitoring.
+
+Outside my professional responsibilities, I maintain an enterprise-style homelab where I design, deploy, secure, and troubleshoot infrastructure. I use this environment to strengthen my networking and security engineering skills, explore enterprise technologies, and practice offensive security techniques.
+
+**Current focus:** Network Security Engineering, Security Infrastructure, and Penetration Testing.
+
+This GitHub portfolio documents my technical projects, infrastructure designs, configurations, troubleshooting processes, and lessons learned.
